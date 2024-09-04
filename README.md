@@ -2,12 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Richard+Yuri+;I'm+21+years+old;I+am+from+Arujá/SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuri-020703&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yuri-020703&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Yuri-020703/Yuri-020703/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
