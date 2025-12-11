@@ -3,6 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Richard+Yuri+;I'm+22+years+old;I+am+from+Arujá/SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Yuri-020703&layout=compact&theme=tokyonight" />
+</p>
+
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
